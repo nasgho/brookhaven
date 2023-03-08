@@ -1,31 +1,31 @@
 {
     "config" : [
         {
-            "int_interval" : 6,
+            "int_interval" : 4,
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "b2253b55-7e31-4ec5-bfec-b6ff026bd932",
-            "network" : "fan",
+            "network" : "max",
 
             "unity_game_id" : "",
-            "unity_int" : "Interstitial_Android",
-            "unity_ban" : "Banner_Android",
+            "unity_int" : "",
+            "unity_ban" : "",
             
-            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban" : "",
             "admob_native" : "",
-            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            "admob_int" : "",
 
-            "yandex_ban" : "R-M-2119489-2",
-            "yandex_native" : "R-M-2119489-3",
-            "yandex_int" : "R-M-2119489-1",
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
 
-            "iron_key": "168e4ab9d",
-            "iron_ban" : "DefaultBanner",
-            "iron_int" : "DefaultInterstitial",
+            "iron_key": "",
+            "iron_ban" : "",
+            "iron_int" : "",
 
-            "max_ban" : "63625eca48cb04be",
-            "max_native" : "15d37e6c62aa03e2",
-            "max_int" : "67acfcdf01be77d5",
+            "max_ban" : "8fe08c42f719ceaa",
+            "max_native" : "e1b89e7fb4da2b7d",
+            "max_int" : "b438470bae3f5d0f",
 
              "fan_ban": "537012071755968_537017981755377",
             "fan_native": "537012071755968_537017935088715",
