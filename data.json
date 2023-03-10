@@ -38,13 +38,9 @@
     
     "more" : [
         {
-            "name" : "Play game",
-            "ico" : "",
-            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },{
-            "name" : "Play game",
-            "ico" : "",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+            "name" : "Brookhaven vs Rainbow escape",
+            "ico" : "https://play-lh.googleusercontent.com/z4xO4x19yjj5HJ1rTsOfbg2Equw4YX72ID49avVlE-8ZOiGWCBkwH4e0BZS5qRzXJkc=w240-h480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zonegame.rainbowmerge.monsterescape"
         }
     ],
     
